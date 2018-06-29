@@ -1,3 +1,4 @@
-$('#thirdText').addClass('hide'){
+$(function() {
+  $('#thirdText').addClass('hide');
   $('.hide').hide();
 });
